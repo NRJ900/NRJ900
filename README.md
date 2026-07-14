@@ -1,7 +1,7 @@
 # 💫 About Me:
 
 Hi! I'm Neeraj — a Computer Science enthusiast, passionate developer, and cybersecurity researcher dedicated to building secure, intelligent, and user-friendly systems.
-I specialize in full-stack development, AI integrations, and real-time applications using React, Python, and modern tools. I'm particularly excited about emerging technologies like LLMs, AI agents, and automation that solve real-world problems.
+I specialize in full-stack development, AI integrations, and real-time applications. I'm particularly excited about emerging technologies like LLMs, AI agents, and automation that solve real-world problems.
 
 Whether it's designing intuitive UIs, deploying scalable backends, or experimenting with machine learning, I love turning ideas into impactful, working solutions.
 
