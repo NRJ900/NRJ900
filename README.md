@@ -54,7 +54,7 @@ Whether it's designing intuitive UIs, deploying scalable backends, or experiment
 ## 🌐 Socials:
 <div align="center">
 
-[![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/INRJI2)     [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:manisneeraj13@gmail.com)  
+[![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/NRJ9OO)     [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:manisneeraj13@gmail.com)  
 
 </div>
 
